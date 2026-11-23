@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/krasnuy7/SAMP-Mobile-/releases/latest"><img src="https://img.shields.io/badge/%D0%A1%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C-APK-5D87FF?style=for-the-badge&logo=android&logoColor=white" alt="Скачать APK"></a>
+  <a href="https://github.com/krasnuy7/SAMP-Mobile-/raw/main/GTA-2.11.apk"><img src="https://img.shields.io/badge/%D0%A1%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C-APK-5D87FF?style=for-the-badge&logo=android&logoColor=white" alt="Скачать APK"></a>
   <a href="https://t.me/samp_android_app"><img src="https://img.shields.io/badge/Telegram-@samp_android_app-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
 </p>
 
@@ -33,7 +33,7 @@
 
 ### 📲 Установка
 
-1. Скачай `GTA-2.11.apk` (или из [Releases](https://github.com/krasnuy7/SAMP-Mobile-/releases/latest))
+1. Скачай [`GTA-2.11.apk`](https://github.com/krasnuy7/SAMP-Mobile-/raw/main/GTA-2.11.apk)
 2. Установи APK (Android 9+; разреши установку из неизвестных источников)
 3. Открой приложение и выдай **«Доступ ко всем файлам»**
 4. Настройки → **«Проверить файлы»** → **«Скачать и установить»** — кеш игры скачается сам
